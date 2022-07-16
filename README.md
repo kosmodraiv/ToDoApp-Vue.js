@@ -1,6 +1,7 @@
 # to-do-js
 
 ##Brief launch of the project
+Important: to install the project, you must have the NodeJS platform on your PC
 
 1. In the project terminal we write: npm install
 2. After installing local files in the project, we write: npm run serve
