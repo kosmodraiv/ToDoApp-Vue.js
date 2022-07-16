@@ -1,5 +1,11 @@
 # to-do-js
 
+##Brief launch of the project
+
+1. In the project terminal we write: npm install
+2. After installing local files in the project, we write: npm run serve
+3. The terminal gives the localhost, paste the address into the browser
+
 ## Project setup
 ```
 npm install
